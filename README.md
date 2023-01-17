@@ -6,9 +6,9 @@
 
 ## Kelas : TI.22.A.3
 
-## PIP
+# PIP
 
-### Install pip di CMD
+## Install pip di CMD
 
 Pertama install pip terlebih dahulu dengan membuka CMD, lalu ketik "pip install requests"
 
@@ -18,22 +18,22 @@ Lalu Anda dapat melihat daftar package yang terinstall, dengan ketik "pip list"
 
 ![Foto](Picture/pip%20list.png)
 
-## Web Scraping
+# Web Scraping
 
 Buka [GoogleColab](https://colab.research.google.com/), lalu buat notebook baru dan beri nama
 
-### Install Library
+## Install Library
 
 ![Foto](Picture/Install%20library.png)
 
-### Import Library & Headers
+## Import Library & Headers
 
 ![Foto](Picture/import%20libraries%20dan%20headers.png)
 
-### Kasus 1 : Jadwal Sholat
+## Kasus 1 : Jadwal Sholat
 
 ![Foto](Picture/Kasus%201.png)
 
-### Kasus 2 : Prakiraan Cuaca
+## Kasus 2 : Prakiraan Cuaca
 
 ![Foto](Picture/Kasus%202.png)
