@@ -20,6 +20,8 @@ Lalu Anda dapat melihat daftar package yang terinstall, dengan ketik "pip list"
 
 ## Web Scraping
 
+Buka [GoogleColab](https://colab.research.google.com/), lalu buat notebook baru dan beri nama
+
 ### Install Library
 
 ![Foto](Picture/Install%20library.png)
