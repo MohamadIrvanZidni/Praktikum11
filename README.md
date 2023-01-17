@@ -44,3 +44,4 @@ Buka [GoogleColab](https://colab.research.google.com/), lalu buat notebook baru 
 
 ## Kasus 4 : Bukalapak
 
+![Foto](Picture/Kasus%204.png)
