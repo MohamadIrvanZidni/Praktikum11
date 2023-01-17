@@ -37,3 +37,10 @@ Buka [GoogleColab](https://colab.research.google.com/), lalu buat notebook baru 
 ## Kasus 2 : Prakiraan Cuaca
 
 ![Foto](Picture/Kasus%202.png)
+
+## Kasus 3 : Fake Jobs
+
+![Foto](Picture/Kasus%203.png)
+
+## Kasus 4 : Bukalapak
+
