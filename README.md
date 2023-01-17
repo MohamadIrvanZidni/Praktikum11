@@ -19,3 +19,19 @@ Lalu Anda dapat melihat daftar package yang terinstall, dengan ketik "pip list"
 ![Foto](Picture/pip%20list.png)
 
 ## Web Scraping
+
+### Install Library
+
+![Foto](Picture/Install%20library.png)
+
+### Import Library & Headers
+
+![Foto](Picture/import%20libraries%20dan%20headers.png)
+
+### Kasus 1 : Jadwal Sholat
+
+![Foto](Picture/Kasus%201.png)
+
+### Kasus 2 : Prakiraan Cuaca
+
+![Foto](Picture/Kasus%202.png)
